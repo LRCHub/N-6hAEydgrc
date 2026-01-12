@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "回転してから考える",
+  "base_artist": "ハク。",
+  "createdAt": "2026-01-12T11:37:43.424220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "回転してから考える",
+      "artist": "ハク。",
+      "has_synced": false,
+      "path": "select/pl_01_回転してから考える_ハク。.txt"
+    }
+  ]
+}
